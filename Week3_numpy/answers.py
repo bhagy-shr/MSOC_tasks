@@ -1,4 +1,4 @@
-import numpy as np
+import numpy as np # type: ignore
 
 """PROBLEM 1"""
 arr=eval(input("List of numbers: "))
